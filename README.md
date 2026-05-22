@@ -1,10 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=Hi+%F0%9F%91%8B+I'm+Anastasia+Joeng;AI+%7C+T2I+%7C+Coding+Agent+Strategist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Hi+%F0%9F%91%8B+I'm+Anastasia+Joeng)](https://git.io/typing-svg)
 
 </div>
-
----
 
 ## About Me
 
@@ -12,13 +10,3 @@
 - 🔥 **Strategy Product Manager — AI / Text-to-Image / Coding Agent**
 - 🌱 Making models better through strategy
 - ⚡ Open to collaboration on AI strategy & product innovation
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ShawnJoeng&color=6C63FF&style=for-the-badge)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
-
-</div>
