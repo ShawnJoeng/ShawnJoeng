@@ -8,9 +8,9 @@
 
 ## About Me
 
-- 🎓 **毕业于清华大学**
-- 🔥 **AI / Text-to-Image / Coding Agent 策略产品经理**
-- 🌱 通过策略，让模型变得更加优秀
+- 🎓 **M.S. Graduate @ Tsinghua University**
+- 🔥 **Strategy Product Manager — AI / Text-to-Image / Coding Agent**
+- 🌱 Making models better through strategy
 - ⚡ Open to collaboration on AI strategy & product innovation
 
 ---
