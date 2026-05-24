@@ -10,3 +10,4 @@
 - 🔥 **Strategy Product Manager — AI / Text-to-Image / Coding Agent**
 - 🌱 Making models better through strategy
 - ⚡ Open to collaboration on AI strategy & product innovation
+- 📫 yxw23@tsinghua.org.cn
